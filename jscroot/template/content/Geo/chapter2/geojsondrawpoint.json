@@ -1,0 +1,985 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "katapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89031492370947,
+          -7.201305432958264
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89023976575106,
+          -7.201935093377401
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk "
+      },
+      "geometry": {
+        "coordinates": [
+          107.88928776493714,
+          -7.201106592643967
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "keatapng"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89033162547827,
+          -7.2023659131612305
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "smk": "1 garut"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88993078303082,
+          -7.20276359259698
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89031492370947,
+          -7.202912722295622
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "edi "
+      },
+      "geometry": {
+        "coordinates": [
+          107.89012285337077,
+          -7.203144701729983
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "musdi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89022306398692,
+          -7.203426390868913
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "musa"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89061555554997,
+          -7.203409820923511
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pa edi suag "
+      },
+      "geometry": {
+        "coordinates": [
+          107.89057380112928,
+          -7.203724649782217
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89054874847608,
+          -7.203848924270872
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88971366004245,
+          -7.202249923246626
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88944643174295,
+          -7.201877098362473
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89063225731877,
+          -7.202407338105473
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89054039759532,
+          -7.201976518344594
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "edigus"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89064060820687,
+          -7.203989768633875
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "edixmusa"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89085773120001,
+          -7.2034181058811555
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "edi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89099969623351,
+          -7.20388206411269
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agus"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89102474888676,
+          -7.204254887347986
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89090783650647,
+          -7.2026807427137385
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89091618739081,
+          -7.20208422331973
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agus"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89117506480477,
+          -7.204321167001382
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88984727419523,
+          -7.2035506654241175
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8890956946056,
+          -7.202283063205357
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8890455892992,
+          -7.202473618012618
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88997253745998,
+          -7.201537413184965
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89092453827402,
+          -7.202929292230422
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8888618698436,
+          -7.2016285482538365
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89127527541626,
+          -7.202647602767755
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agus"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8914005386822,
+          -7.204304597088651
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89027316929594,
+          -7.2041140430497705
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agus"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8912669245318,
+          -7.204561430666843
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pahalwan edi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88981387065769,
+          -7.204006338558116
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pahlawan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88953829147499,
+          -7.203045281957571
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8887616592321,
+          -7.202191928268036
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88860299242975,
+          -7.20195994834738
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pahlawan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88831906236146,
+          -7.203012142038233
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pahlawan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88891197515005,
+          -7.202945862193417
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88929611582864,
+          -7.2024901879922965
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pahlawan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88862804508176,
+          -7.2030784218745225
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88947983528419,
+          -7.201123162644791
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "namestipsip"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88877836099965,
+          -7.200874612138037
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cipanas"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88805183406316,
+          -7.200808331980795
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketapang"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89077422235601,
+          -7.20165340326821
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pembangunan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88801007964116,
+          -7.202200213263097
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pahlawan edi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88942972997899,
+          -7.20357552033434
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perumahan ": "musdi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8891457999107,
+          -7.2036666549923325
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pa edi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8913671351446,
+          -7.20348438565685
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88856958889215,
+          -7.201264007870918
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pa edi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88994748480673,
+          -7.204412301510629
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agus"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89182643378274,
+          -7.2041140430497705
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "edixmusa"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88947983528419,
+          -7.204354306825024
+        ],
+        "type": "Point"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pemda"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88798502698802,
+          -7.202399053097835
+        ],
+        "type": "Point"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "namestisip"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88976376535243,
+          -7.200684056657565
+        ],
+        "type": "Point"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ciapanas"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88812699202157,
+          -7.2011397326737665
+        ],
+        "type": "Point"
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88851948358581,
+          -7.201645118263144
+        ],
+        "type": "Point"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88979716888889,
+          -7.201305432929473
+        ],
+        "type": "Point"
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pahlawan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88869485215696,
+          -7.203393250962279
+        ],
+        "type": "Point"
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tenjolaya"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8886697995037,
+          -7.2037909294968046
+        ],
+        "type": "Point"
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pa edi"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89029822194908,
+          -7.204486866094285
+        ],
+        "type": "Point"
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "suga"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89121681922666,
+          -7.2030784218745225
+        ],
+        "type": "Point"
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pemda"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88784306195458,
+          -7.202697312685842
+        ],
+        "type": "Point"
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pemda"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88806018494756,
+          -7.202755307583402
+        ],
+        "type": "Point"
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88806018494756,
+          -7.201437993090167
+        ],
+        "type": "Point"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pembangunan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88794327256727,
+          -7.201686543286897
+        ],
+        "type": "Point"
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "namestipsip"
+      },
+      "geometry": {
+        "coordinates": [
+          107.8891541507951,
+          -7.200725481769069
+        ],
+        "type": "Point"
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pemda"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88765099161446,
+          -7.202200213263097
+        ],
+        "type": "Point"
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.88828565882386,
+          -7.2019350933486095
+        ],
+        "type": "Point"
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pembangunan "
+      },
+      "geometry": {
+        "coordinates": [
+          107.88752572834971,
+          -7.201678258282456
+        ],
+        "type": "Point"
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cimanuk"
+      },
+      "geometry": {
+        "coordinates": [
+          107.89014790603113,
+          -7.200874612138037
+        ],
+        "type": "Point"
+      },
+      "id": 69
+    }
+  ]
+}

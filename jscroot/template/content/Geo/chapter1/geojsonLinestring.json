@@ -1,0 +1,675 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88844168080459,
+              -7.200621481752918
+            ],
+            [
+              107.88872572432138,
+              -7.201147514392332
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88882987361183,
+              -7.201232055294611
+            ],
+            [
+              107.8890949808939,
+              -7.20175808722567
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.8891612577151,
+              -7.20188020169482
+            ],
+            [
+              107.88950210993573,
+              -7.202509560354798
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88957478750262,
+              -7.202572449138998
+            ],
+            [
+              107.88985786062574,
+              -7.203116008970056
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88996743731957,
+              -7.203188483565441
+            ],
+            [
+              107.89019572209583,
+              -7.203677686777596
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89033269296306,
+              -7.2038769916388645
+            ],
+            [
+              107.89063402886848,
+              -7.204357134807765
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.8907162113876,
+              -7.204474905696955
+            ],
+            [
+              107.89104494146778,
+              -7.204828218178392
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89123551223918,
+              -7.2049735376835855
+            ],
+            [
+              107.89211559649232,
+              -7.205550694315406
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88834167588146,
+              -7.200371057222341
+            ],
+            [
+              107.88811792564815,
+              -7.19995668369782
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepemabnagunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88744667494598,
+              -7.200430253408484
+            ],
+            [
+              107.88710359125366,
+              -7.201377391346227
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepemabnagunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88711850793612,
+              -7.201747366565172
+            ],
+            [
+              107.88702900784182,
+              -7.202872089378047
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepemabnagunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88698425779472,
+              -7.203138470689197
+            ],
+            [
+              107.88698425779472,
+              -7.204366782483007
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepemabnagunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88695442443003,
+              -7.204603565097571
+            ],
+            [
+              107.88698425779472,
+              -7.2057134819506246
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepemabnagunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88707375788891,
+              -7.206024258182708
+            ],
+            [
+              107.88744667494598,
+              -7.207015780926042
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepemabnagunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88765203662496,
+              -7.207547977499473
+            ],
+            [
+              107.88816375007133,
+              -7.208780888629434
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namecimanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89253977192357,
+              -7.205749888644988
+            ],
+            [
+              107.8936363007378,
+              -7.206378434487618
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepaturaman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89295401614316,
+              -7.205169691709074
+            ],
+            [
+              107.8932220565182,
+              -7.203670846187094
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepaturaman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.8931976892128,
+              -7.2031873465742535
+            ],
+            [
+              107.89331952574668,
+              -7.201688494497063
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepaturaman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89336826036094,
+              -7.201301693156623
+            ],
+            [
+              107.89327079113247,
+              -7.199996236197549
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepaturaman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89300275075567,
+              -7.199585258229519
+            ],
+            [
+              107.89200369117009,
+              -7.199246805505382
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "namepaturaman"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89173565079511,
+              -7.199101754260354
+            ],
+            [
+              107.8903467142971,
+              -7.198932527749037
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameterusan pembangaunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.8900786739203,
+              -7.19890835252869
+            ],
+            [
+              107.88878720665258,
+              -7.199150104679902
+            ],
+            [
+              107.88859226819727,
+              -7.199150104679902
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameterusan pembangaunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88817802397762,
+              -7.199343506309347
+            ],
+            [
+              107.88727643362057,
+              -7.1984490230840805
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameterusan pembangaunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.88815365667051,
+              -7.209134355965233
+            ],
+            [
+              107.88868973742404,
+              -7.2102947389396235
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameciamanuk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89524765324484,
+              -7.207134703286869
+            ],
+            [
+              107.89673244250963,
+              -7.207531295671217
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameterusan pemabngunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89359948529193,
+              -7.203785209554994
+            ],
+            [
+              107.8949410374222,
+              -7.20421521261369
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameterusan pembangunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89527126563814,
+              -7.204379023196594
+            ],
+            [
+              107.89624131102363,
+              -7.204788549390258
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameterusan pembangunan"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89650962144992,
+              -7.204952359765969
+            ],
+            [
+              107.89762414168126,
+              -7.205382361717383
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameproklamasi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89805756621405,
+              -7.205525695610049
+            ],
+            [
+              107.89935783981696,
+              -7.2058737920183376
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameproklamasi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89820204105979,
+              -7.205034264930049
+            ],
+            [
+              107.89818140179614,
+              -7.203723780514309
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameproklamasi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89822268032344,
+              -7.203334729723991
+            ],
+            [
+              107.89824331958715,
+              -7.201901381825394
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameproklamasi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89824331958715,
+              -7.201471376572044
+            ],
+            [
+              107.89820204105979,
+              -7.200877559123583
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameproklamasi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89762414168126,
+              -7.2009185120763135
+            ],
+            [
+              107.89653026071363,
+              -7.201020894440532
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameproklamasi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.89615875397038,
+              -7.2010413709109
+            ],
+            [
+              107.89516806932124,
+              -7.201061847380345
+            ]
+          ],
+          "type": "LineString"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "nameproklamasi"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              107.8949410374222,
+              -7.201061847380345
+            ],
+            [
+              107.89401227056254,
+              -7.201020894440532
+            ]
+          ],
+          "type": "LineString"
+        }
+      }
+    ]
+  }

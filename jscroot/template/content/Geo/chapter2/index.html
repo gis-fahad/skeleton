@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHAPTER 2</title>
+    <link rel="stylesheet" href="./css/style.css" type="text/css" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+</head>
+
+<body>
+
+    <div style="text-align: center;">
+        <h1>OPEN LAYERS GIS</h1>
+    </div>
+    <div class="intro" style="text-align: center;">
+        <h2>Nama : Fahad Abdul Aziz (1214030)</h2>
+        <h2>Npm : 1214030</h2>
+        <h2>Kelas : D4 Teknik Informatika 3A</h2>
+    </div>
+
+    <div id="map" style="height: 500px;"></div>
+
+    <input type="hidden" id="idmarker" name="idmarker" value="">
+
+    <div id="popupinfo" class="ol-popup">
+        <b id="popupinfo-title"></b>
+        <div id="popupinfo-content"></div>
+        <div id="popupinfo-delete">
+            <input type="hidden" id="idmarker" name="idmarker" value="">
+            <button id="hapusbutton" type="button">Hapus</button><button id="hitungcogbutton" type="button">Hitung
+                COG</button><br>
+        </div>
+
+    </div>
+
+    <div id="popup" class="ol-popup">
+        <b id="popup-title">Input Center of Gravity</b><a href="#" id="popup-closer" class="ol-popup-closer"></a>
+        <div id="popup-content"></div>
+        <div id="popup-input">
+            Nama : <input type="text" id="name" name="name" required><br>
+            Volume : <input type="text" id="volume" name="volume" required><br>
+            <input type="hidden" id="long" name="long" value="">
+            <input type="hidden" id="lat" name="lat" value="">
+            <button id="insertmarkerbutton" type="button">Input</button><br>
+        </div>
+    </div>
+
+
+    <div id="info-table>
+        <div class=" point-table">
+        <!-- MEMBUAT DISPLAY TABLE DATA POINT BUAT JSON -->
+        <h1>Data Poin</h1>
+        <table id="pointTable" border="1">
+            <thead>
+                <tr>
+                    <th>Nama</th>
+                    <th>Koordinat</th>
+                    <th>Type</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div class="polygon-table">
+        <h1>Data Polygon</h1>
+        <table id="polygonTable" border="1">
+            <thead>
+                <tr>
+                    <th>Nama</th>
+                    <th>Koordinat</th>
+                    <th>Type</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div class="polyline-table">
+        <h1>Data Polyline</h1>
+        <table id="polylineTable" border="1">
+            <thead>
+                <tr>
+                    <th>Nama</th>
+                    <th>Koordinat</th>
+                    <th>Type</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    </div>
+    <script src="js/script.js" type="module"></script>
+</body>
+
+</html>
